@@ -1,0 +1,1 @@
+# ArtoLinux-rofi-config
